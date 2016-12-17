@@ -25,6 +25,9 @@ p{
 	margin-left: auto;
 	width:90%;
 }
+#blue {
+	background-color: #cccccc;
+}
 
 @media (min-width: 992px) {
 
